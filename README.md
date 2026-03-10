@@ -5,14 +5,6 @@
 <br/>
 <br/>
 
-<p align="center">
-  <a href="https://www.pku.edu.cn">
-    <img src="./image/image4.png" alt="Peking University" height="42" />
-  </a>
-  <a href="https://github.com/Narwhal-Lab">
-    <img src="./image/image5.png" alt="Narwhal-Lab" height="42" />
-  </a>
-</p>
 
 
 # 🪄 MagicSkills: **Build Skills Once, Reuse Them Across Every Agent**
@@ -46,6 +38,16 @@ Turn scattered `SKILL.md` directories into a reusable · composable · syncable 
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License: MIT"/></a>
   &nbsp;
   <a href="https://github.com/Narwhal-Lab/MagicSkills"><img src="https://img.shields.io/github/stars/Narwhal-Lab/MagicSkills?style=for-the-badge&logo=github" alt="GitHub stars"/></a>
+</p>
+
+
+<p align="center">
+  <a href="https://www.pku.edu.cn">
+    <img src="./image/image4.png" alt="Peking University" height="42" />
+  </a>
+  <a href="https://github.com/Narwhal-Lab">
+    <img src="./image/image5.png" alt="Narwhal-Lab" height="42" />
+  </a>
 </p>
 
 
